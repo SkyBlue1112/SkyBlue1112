@@ -10,7 +10,7 @@ Currently working with:
 - 💻 **Languages** (Python, SQL, R)
 - ⚙️ **Tools** (Airflow, Kafka, Streamlit, Power BI)
 
-I bring both **technical execution** and **strategic thinking** to every project — delivering solutions that are robust, automated, and business-aligned.
+I bring both **technical execution** and **strategic thinking** to every project, delivering solutions that are robust, automated, and business-aligned.
 
 ---
 
