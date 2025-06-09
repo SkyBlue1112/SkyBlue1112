@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Welcome! I'm Andrea De La Rosa
 
-<!--
-**SkyBlue1112/SkyBlue1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture in cloud environments, and integrating governance using Collibra.
 
-Here are some ideas to get you started:
+Currently working with:
+- 📊 **Data Governance** (Collibra, Alteryx)
+- ☁️ **Cloud** (AWS, Azure, Databricks)
+- 🧱 **Architecture** (Medallion, Modular Pipelines)
+- 🧠 **Languages** (Python, SQL, R)
+- 🧰 **Tools** (Airflow, Kafka, Streamlit, Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring both **technical execution** and **strategic thinking** to every project — delivering solutions that are robust, automated, and business-aligned.
+
+---
+
+## 🔥 Highlights
+
+- 🏢 Data Engineer @ Grupo ITG
+- 🤝 Volunteering @ Data Girls – leading women in tech projects
+- ✅ AWS Certified Cloud Practitioner
+- 🧠 Acting with the mindset of leadership and high-performance execution
+- 💬 Working fluently in English, Portuguese, and Spanish
+
+---
+
+## 📂 Featured Projects
+
+Here are a few projects I’m most proud of:
+
+- 🔗 [Data Governance Framework](https://github.com/your-user/data-governance-framework)  
+- 🔗 [Medallion Architecture on Databricks](https://github.com/your-user/medallion-architecture-databricks)  
+- 🔗 [AWS Serverless Data Pipeline](https://github.com/your-user/aws-data-pipeline)  
+- 🔗 [Alteryx Automation Templates](https://github.com/your-user/alteryx-automation-project)  
+
+➡️ Explore all my repositories [here](https://github.com/your-user?tab=repositories).
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/andreadlr0/)
+- [Email](andre110567edelarosa@gmail.com)
+
+---
