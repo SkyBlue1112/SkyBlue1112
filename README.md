@@ -17,7 +17,7 @@ I bring both **technical execution** and **strategic thinking** to every project
 #### 🏅 Highlights
 
 - 🏢 Data Engineer @ Grupo ITG
-- 👩‍💻 Volunteering @ Data Girls – leading women in tech projects
+- 👩‍💻 Volunteering @ Data Girls 
 - 📜 AWS Certified Cloud Practitioner
 - 🎯 Leadership mindset
 - 🌍 Trilingual communicator (English, Portuguese, and Spanish)
