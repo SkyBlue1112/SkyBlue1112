@@ -29,7 +29,7 @@ I bring both **technical execution** and **strategic thinking** to every project
 Here are a few projects I’m most proud of:
 
 - 🔗 [Data Governance Framework](https://github.com/your-user/data-governance-framework)  
-- 🔗 [Medallion Architecture on Databricks](https://github.com/your-user/medallion-architecture-databricks)  
+- 🔗 [Medallion Architecture on Databricks](https://github.com/SkyBlue1112/Medallion-Architecture-on-Databricks)  
 - 🔗 [AWS Serverless Data Pipeline](https://github.com/your-user/aws-data-pipeline)  
 - 🔗 [Alteryx Automation Templates](https://github.com/your-user/alteryx-automation-project)  
 
