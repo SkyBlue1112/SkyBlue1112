@@ -1,6 +1,6 @@
-# 👋 Welcome! I'm Andrea De La Rosa
+## 👋 Welcome! I'm Andrea De La Rosa
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture in cloud environments, and integrating governance using Collibra.
 
 Currently working with:
@@ -14,7 +14,7 @@ I bring both **technical execution** and **strategic thinking** to every project
 
 ---
 
-## 🔥 Highlights
+### 🔥 Highlights
 
 - 🏢 Data Engineer @ Grupo ITG
 - 🤝 Volunteering @ Data Girls – leading women in tech projects
@@ -24,7 +24,7 @@ I bring both **technical execution** and **strategic thinking** to every project
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 Here are a few projects I’m most proud of:
 
@@ -37,7 +37,7 @@ Here are a few projects I’m most proud of:
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/andreadlr0/)
 - [Email](andre110567edelarosa@gmail.com)
