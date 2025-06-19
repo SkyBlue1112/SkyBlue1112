@@ -3,7 +3,7 @@
   <h3>☕ Welcome to my Data Space!</h3>
 </div>
 
-<div align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; display:inline-block;">
+<div align="center" style="background-color:#f0f0f0; padding:20px; border-radius:20px; display:inline-block;">
   <a href="https://www.linkedin.com/in/andreadlr0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
