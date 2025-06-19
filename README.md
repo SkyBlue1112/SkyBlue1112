@@ -43,3 +43,9 @@ Here are a few projects I’m most proud of:
 - [Email](andre110567edelarosa@gmail.com)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyBlue1112/SkyBlue1112/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyBlue1112/SkyBlue1112/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SkyBlue1112/SkyBlue1112/output/pacman-contribution-graph.svg">
+</picture>
