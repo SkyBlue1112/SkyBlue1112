@@ -14,7 +14,7 @@
 
 
 > #### 🚀 About Me
-  I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture   in cloud environments, and integrating governance using Collibra.
+    I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture   in cloud environments, and integrating governance using Collibra.
     
     Currently working with:
     - 📊 **Data Governance** (Collibra, Alteryx)
