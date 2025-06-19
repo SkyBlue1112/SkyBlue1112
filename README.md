@@ -12,19 +12,18 @@
   </a>
 </div>
 
-### ! I'm Andrea De La Rosa
 
-#### 🚀 About Me
-I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture in cloud environments, and integrating governance using Collibra.
-
-Currently working with:
-- 📊 **Data Governance** (Collibra, Alteryx)
-- ☁️ **Cloud** (AWS, Azure, Databricks)
-- 🧱 **Architecture** (Medallion, Modular Pipelines)
-- 💻 **Languages** (Python, SQL, R)
-- ⚙️ **Tools** (Airflow, Kafka, Streamlit, Power BI)
-
-I bring both **technical execution** and **strategic thinking** to every project, delivering solutions that are robust, automated, and business-aligned.
+> #### 🚀 About Me
+  I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture   in cloud environments, and integrating governance using Collibra.
+    
+    Currently working with:
+    - 📊 **Data Governance** (Collibra, Alteryx)
+    - ☁️ **Cloud** (AWS, Azure, Databricks)
+    - 🧱 **Architecture** (Medallion, Modular Pipelines)
+    - 💻 **Languages** (Python, SQL, R)
+    - ⚙️ **Tools** (Airflow, Kafka, Streamlit, Power BI)
+    
+    I bring both **technical execution** and **strategic thinking** to every project, delivering solutions that are robust, automated, and business-aligned.
 
 ---
 
