@@ -1,4 +1,9 @@
-### ☕ Welcome to my Data Space! I'm Andrea De La Rosa
+<div align="center">
+  <h1>Hi! I'm Andrea 👋</h1>
+  <h3>☕ Welcome to my Data Space!</h3>
+</div>
+
+### ! I'm Andrea De La Rosa
 
 #### 🚀 About Me
 I'm a Data Engineer passionate about transforming data into powerful business assets. I specialize in building scalable data pipelines, implementing Medallion Architecture in cloud environments, and integrating governance using Collibra.
