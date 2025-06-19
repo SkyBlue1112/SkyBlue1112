@@ -3,14 +3,14 @@
   <h3>☕ Welcome to my Data Space!</h3>
 </div>
 
-<p align="center">
+<div align="left" style="background-color:#f0f0f0; padding:10px; border-radius:8px; display:inline-block;">
   <a href="https://www.linkedin.com/in/andreadlr0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:kathedelarosa07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</p>
+</div>
 
 ### ! I'm Andrea De La Rosa
 
