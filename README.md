@@ -53,4 +53,3 @@ Here are a few projects I’m most proud of:
   </picture>
 </details>
 
-
